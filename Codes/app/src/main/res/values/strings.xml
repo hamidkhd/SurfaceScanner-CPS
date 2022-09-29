@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_send">START</string>
+    <string name="button_stop">STOP</string>
+</resources>
